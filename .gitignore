@@ -1,0 +1,10 @@
+# Private career documents
+David_Nae_CV_MLE.pdf
+
+# Local development
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+dist/
+
